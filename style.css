@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    margin: 20px;
+}
+#apps{
+    background-color: aqua;
+}
+#games {
+    background-color: coral;
+}
+#chat-bot{
+    background-color: dodgerblue;
+}
+
+#carousel1{
+    background-color: red;
+    
+}
+
+#carousel1 img{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p{
+    
+    color: white;
+}
